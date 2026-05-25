@@ -1,0 +1,4 @@
+FUNCTION REAL func_add1 (IN REAL a, IN REAL b)
+    BODY
+        RETURN a+b
+END FUNCTION
